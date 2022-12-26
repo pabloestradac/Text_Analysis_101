@@ -1,1 +1,3 @@
-# Text_Analysis_101
+# Text Analysis 101
+
+This repository shows basic text cleaning and classification techniques.
